@@ -1,10 +1,10 @@
-import './App.css';
-import CartCounter from './pages/cartCounert';
+import "./App.css";
+import CartCounter from "./pages/cartCounert";
 
 function App() {
   return (
     <div className="app">
-      <CartCounter/>
+      <CartCounter />
     </div>
   );
 }
